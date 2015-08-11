@@ -1,4 +1,6 @@
 #!/bin/bash
+#Speedtest Boton made by Emiliano Sturniolo <esturniolo@gmail.com>
+#Use it as you want, be happy. Just remember me in every run :D
 
 API="Your_Pushbullet_API_here"
 MSG="La conexion de internet esta perfectas condiciones"
