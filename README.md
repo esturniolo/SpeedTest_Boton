@@ -18,5 +18,6 @@ curl
 Optional:
 Pushbullet account (so you can add your API key)
 IFTTT account (to send a tweet reporting the issue)
+Dropbox account (to place the file that uses IFTTT to send the tweet)
 
 Enjoy it!
