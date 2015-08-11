@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Speedtest Boton made by Emiliano Sturniolo <esturniolo@gmail.com>
+#Use it as you want, be happy. Just remember me in every run :D
+
 TODAY=`date +%d-%m-%Y`
 NOW=`date +%A %d-%m-%Y %H:%M`
 TIME=`date +%H:%M`
