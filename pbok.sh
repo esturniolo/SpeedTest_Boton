@@ -5,4 +5,4 @@
 API="Your_Pushbullet_API_here"
 MSG="Your internet connection it's ok. Download: $SPEEDDOWN Mbit/s / Upload: $SPEEDUP Mbit/s. Hooray!"
 
-curl -u $API: https://api.pushbullet.com/v2/pushes -d type=note -d title="ATENCION - ISP" -d body="$MSG" > /dev/null
+curl -u $API: https://api.pushbullet.com/v2/pushes -d type=note -d title="ATTENTION - ISP" -d body="$MSG" > /dev/null
