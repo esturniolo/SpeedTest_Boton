@@ -13,4 +13,6 @@ MSG="My ISP speed sucks now! Download: $SPEEDDOWN Mbit/s / Upload: $SPEEDUP Mbit
 
 curl -u $API: https://api.pushbullet.com/v2/pushes -d type=note -d title="ALERT - ISP" -d body="$MSG"
 
+rm $DIRDEST/*.*
+
 touch $DIRDEST/"Download $SPEEDDOWN- Upload $SPEEDUP"
