@@ -25,3 +25,8 @@ Optional:
 * Dropbox account (to place the file that uses IFTTT to send the tweet)
 
 Enjoy it!
+
+
+---
+
+## Thanks [David](https://github.com/dgacias) for remind me that this repo existed and for upgrade it!!!!
